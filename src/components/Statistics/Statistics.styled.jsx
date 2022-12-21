@@ -22,6 +22,9 @@ export const StatItem = styled.li`
   border-radius: 4px;
   border: 1px solid black;
   flex-basis: 15%;
+
+  font-weight: bold;
+  font-size: 20px;
 `;
 
 export const Section = styled.section`
